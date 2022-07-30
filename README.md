@@ -20,13 +20,11 @@
 
  <br>
  
- 
   ### Redes sociais:
- 
  
 <div> 
 
-  <a href = "mailto:andreiathaide3@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:andreiathaide3@outlook.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" target="_blank"></a>
 
  
   ![Snake animation](https://github.com/OxPombo/OxPombo/blob/output/github-contribution-grid-snake.svg)
