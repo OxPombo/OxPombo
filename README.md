@@ -11,7 +11,7 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OxPombo&layout=compact&hide_border=true&theme=midnight-purple" />
 </div><br>
 
-[![OxPombo's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=OxPombo&bg_color=000000&color=E3D0D8&line=05204AC&point=75DDDD&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)<br><br>
+[![OxPombo's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=OxPombo&bg_color=000000&color=E3D0D8&line=332E3C&point=75DDDD&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)<br><br>
 
 ### Conhecimentos básicos:
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
