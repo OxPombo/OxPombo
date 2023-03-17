@@ -2,10 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF00size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Andrei+,+tenho+17+anos;Sou+técnico+em+Desenvolvimento+de+Sistemas;Sou+vestibulando+,+estudo+programação+diariamente;Estou+em+busca+do+meu+primeiro+emprego!;Bem-vindo+ao+meu+perfil)](https://git.io/typing-svg)
 
-<div align="center">
-  <img width="200px" height="200px" src="https://avatars.githubusercontent.com/u/83985294?s=400&u=51ce6407c3260f73e59861adb5070b57e0ace4ee&v=4" alt="Profile picture"/>
-</div><br>
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=OxPombo&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple" alt="OxPombo github stats" /> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OxPombo&layout=compact&hide_border=true&theme=midnight-purple" />
