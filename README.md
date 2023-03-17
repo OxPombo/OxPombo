@@ -1,13 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=98CE00&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF00size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Andrei+,+tenho+17+anos;Sou+técnico+em+Desenvolvimento+de+Sistemas;Sou+vestibulando+,+estudo+programação+diariamente;Estou+em+busca+do+meu+primeiro+emprego!;Bem-vindo+ao+meu+perfil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF00size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Andrei+,+tenho+17+anos;Sou+técnico+em+Desenvolvimento+de+Sistemas;Sou+vestibulando+e+estudo+programação+diariamente;Estou+em+busca+do+meu+primeiro+emprego!;Bem-vindo+ao+meu+perfil)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=OxPombo&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple" alt="OxPombo github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OxPombo&layout=compact&hide_border=true&theme=midnight-purple" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=OxPombo&show_icons=true&count_private=true&hide_border=true&theme=buefy" alt="OxPombo github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OxPombo&layout=compact&hide_border=true&theme=buefy" />
 </div><br>
 
-[![OxPombo's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=OxPombo&bg_color=000000&color=E3D0D8&line=332E3C&point=75DDDD&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)<br><br>
+[![OxPombo's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=OxPombo&bg_color=FFFF00&color=002A32&line=0091AD&point=E3170A&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)<br><br>
 
 ### Conhecimentos básicos:
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
