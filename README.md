@@ -7,7 +7,7 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OxPombo&layout=compact&hide_border=true&theme=synthwave" />
 </div><br>
 
-[![OxPombo's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=OxPombo&bg_color=E1D8CE&color=FFFFF0&line=595766&point=742658&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)<br><br>
+[![OxPombo's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=OxPombo&bg_color=000000color=E1D8CE&line=595766&point=742658&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)<br><br>
 
 ### Conhecimentos básicos:
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
