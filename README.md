@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=98CE00&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFCsize=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Andrei+,+tenho+17+anos;Sou+técnico+em+Desenvolvimento+de+Sistemas;Sou+vestibulando+,+estudo+programação+diariamente;Estou+em+busca+do+meu+primeiro+emprego!;Bem-vindo+ao+meu+perfil+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF00size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Andrei+,+tenho+17+anos;Sou+técnico+em+Desenvolvimento+de+Sistemas;Sou+vestibulando+,+estudo+programação+diariamente;Estou+em+busca+do+meu+primeiro+emprego!;Bem-vindo+ao+meu+perfil)](https://git.io/typing-svg)
 
 <div align="center">
-  <img width="200px" heigth="200px" src="https://avatars.githubusercontent.com/u/83985294?s=400&u=51ce6407c3260f73e59861adb5070b57e0ace4ee&v=4"/>
+  <img width="200px" height="200px" src="https://avatars.githubusercontent.com/u/83985294?s=400&u=51ce6407c3260f73e59861adb5070b57e0ace4ee&v=4" alt="Profile picture"/>
 </div><br>
 
 <div align="center">  
@@ -26,13 +26,8 @@
  ### Entre em contato comigo pelos botões abaixo:
  <a href="https://www.linkedin.com/in/andrei-athaide-54809a249/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href = "mailto:andreiathaidebr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.facebook.com/profile.php?id=100090825013142" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%230077B5?style=for-the-badge&logo=facebook&logoColor=black" target="_blank"></a>
- <a href="https://www.instagram.com/andrei_o_athaide/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%230077B5?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
-  <a href="https://twitter.com/andreioathaide" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=black" target="_blank"></a>
+ <a href="https://www.facebook.com/profile.php?id=100090825013142" target="_blank"><img src="https://img.shields.io/badge/-Facebook-%230077B5?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+ <a href="https://www.instagram.com/andrei_o_athaide/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%230077B5?style=for-the-badge&logo=instagram&logoColor=whitek" target="_blank"></a>
+  <a href="https://twitter.com/andreioathaide" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
  
-
-### Meus currículos:
- [Curriculo.pdf](https://github.com/OxPombo/OxPombo/files/Curriculo_BR.pdf)
- [Curriculo.pdf](https://github.com/OxPombo/OxPombo/files/Curriculo_EN.pdf)
-
  
